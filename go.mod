@@ -1,4 +1,4 @@
-module github.com/guitmz/n26
+module github.com/oluckyman/n26
 
 go 1.14
 

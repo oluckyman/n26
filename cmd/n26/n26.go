@@ -10,7 +10,7 @@ import (
 
 	"regexp"
 
-	"github.com/guitmz/n26"
+	"github.com/oluckyman/n26"
 	"github.com/howeyc/gopass"
 	"github.com/urfave/cli"
 )

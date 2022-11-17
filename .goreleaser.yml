@@ -27,7 +27,7 @@ archives:
 
 release:
   github:
-    owner: guitmz
+    owner: oluckyman
     name: n26
   name_template: "{{.Version}}"
 
@@ -38,9 +38,9 @@ brews:
   -
     name: n26
     tap:
-      owner: guitmz
+      owner: oluckyman
       name: homebrew-tools
-    homepage: "https://github.com/guitmz/n26"
+    homepage: "https://github.com/oluckyman/n26"
     description: "CLI tool for N26 Bank"
     test: |
       system "#{bin}/n26", "--version"
